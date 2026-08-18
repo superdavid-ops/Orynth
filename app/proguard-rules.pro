@@ -1,0 +1,1 @@
+# Orynth ProGuard rules
