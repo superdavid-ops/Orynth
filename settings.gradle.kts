@@ -1,4 +1,4 @@
-pluginManagement {
+import org.gradle.api.initialization.resolve.RepositoriesModepluginManagement {
     repositories {
         google()
         mavenCentral()
